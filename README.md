@@ -11,3 +11,4 @@ This repository serves as a professional-grade workspace for exploring Go intern
 
 ---
 *Built as a Detective-grade lab for Go systems engineering.*
+***one way or another prepare to work and learn and fail and then work and learn and fail some more.***
